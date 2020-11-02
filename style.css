@@ -1,0 +1,44 @@
+h1 {
+	font-family:"Times New Roman", Times, serif;
+	text-align:center;
+	font-size: 45px;
+	}
+h2 {
+font-family: Impact, Charcoal, san-serif;
+}
+p {
+	font-family:Verdana, Helvetica, sans-serif;
+	text-align:center;
+	font-size: 15px;
+	
+	}
+body {
+	text-align:center;
+	background-color:lightpink;
+	margin:20px 20px 20px 20px;
+	}
+	
+img {
+max-height: 250px;
+max-width: 300px;
+
+}
+a:visited {
+  color: black;
+}
+
+a:hover {
+	color: blue;
+	}
+	
+       
+   img:hover {
+transform: scale(1.3);
+}
+	
+
+
+	
+
+
+	
